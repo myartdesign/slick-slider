@@ -245,9 +245,9 @@ h2.am__title:after , h1.entry-title:after {
 }
 
 h2.am__title {
+    font-size: 21px;
     margin-top: 3px;
     margin-bottom: 3px;
-	font-size: 21px;
 }
 
 .am_cont {
@@ -393,7 +393,7 @@ h2.am__title {
 
 .divider-custom .divider-custom-icon {
     color: #49267c !important;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 
